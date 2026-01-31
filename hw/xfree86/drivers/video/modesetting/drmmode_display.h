@@ -260,7 +260,6 @@ typedef struct {
     int cursor_src_x;
     int cursor_src_y;
 
-    Bool cursor_probed;
     Bool cursor_dim_fallback_warned;
 
     int* cursor_pitches;
